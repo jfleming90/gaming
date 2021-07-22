@@ -1,0 +1,22 @@
+---Phase 1: Little Sisters
+
+ - |cff00ffffKyra|r
+ - {spell:350365} Wings of Rage (group suck) - Run Away
+
+ - |cff00ffffSigne|r
+ - {spell:350385} Reverberating Refrain (group pushback) - Run to Boss
+
+ - |cff00ffffFormless Mass|r
+ - Focus burn and kick casts
+
+ - {spell:350541} Fragments of Destiny: Stack on {triangle} and wait for dispell
+ - {spell:350031} Agatha's Eternal Blade - Dodge Lines
+ - {spell:350184} Daschla's Mighty Impact - Move out of group
+ - {spell:350098} Aradne's Falling Strike - dark purple circles, soak these
+ - {spell:350109} Brynja's Mournful Dirge - light purple circles; move out of group
+ - {spell:350039} Arthura's Crushing Gaze - big white circle, group soak
+ - {spell:350482} Link Essence: Applied to 2 people, avoid other mechanics as you'll take extra damage
+
+---Phase 2: Big Sister
+
+Kill boss get loot
