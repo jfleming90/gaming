@@ -1,0 +1,12 @@
+---Phase 1
+
+- {spell:350034} Fractured Soul - Move Away (white swirly)
+- {spell:350816} Spreading Misery - Drop puddles behind raid
+- {spell:349979} Dragging Chains - Group Soak 
+**Focus Stygian Abductors**
+
+
+---Phase 2
+  
+- Groups 1/3 Left   {circle} 
+- Groups 2/4 Right {triangle}
