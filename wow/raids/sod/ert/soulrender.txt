@@ -4,19 +4,19 @@ Qtrmiler      {spell:77761}
 {/T}
 
 {D}
-Chains Group 1
+Chains Group 1 - |cffc59a6cBattle|r {spell:97462}
 
 1: <replace with player>
 2: <replace with player>
 3: <replace with player>
 
-Chains Group 2
+Chains Group 2 - |cffc59a6cNex|r {spell:97462}
 
 1: <replace with player>
 2: <replace with player>
 3: <replace with player>
 
-Chains Group 3
+Chains Group 3 - |cffc59a6cBattle|r {spell:97462}
 
 1: <replace with player>
 2: <replace with player>
