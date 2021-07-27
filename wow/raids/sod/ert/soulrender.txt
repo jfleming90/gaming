@@ -1,3 +1,9 @@
+{T}
+Dances
+Qtrmiler      {spell:77761}
+{/T}
+
+{D}
 Chains Group 1
 
 1: <replace with player>
@@ -15,3 +21,12 @@ Chains Group 3
 1: <replace with player>
 2: <replace with player>
 3: <replace with player>
+{\D}
+
+{H}
+Chains 1: |cff808080Tutto|r {spell:109964} + |cfff38bb9Lilsy|r {spell:31821} + |cffc59a6cBattle|r {spell:97462} + |cfff38bb9Linrayn|r {spell:31884} + |cff808080Tutto|r {spell:62618}
+
+Chains 2: |cff808080Tutto|r {spell:109964} + |cfff38bb9Linrayn|r {spell:31821} + |cffc59a6cNex|r {spell:97462} + |cfff38bb9Lilsy|r {spell:31884} + |cff006fdcIriandr|r {spell:98008} 
+
+Chains 3: |cff808080Tutto|r {spell:109964} + |cfff38bb9Lilsy|r {spell:31821} + |cffc59a6cBattle|r {spell:97462} + |cfff38bb9Lilsy|r {spell:316958} + |cfff38bb9Linrayn|r {spell:31884} + |cff808080Tutto|r {spell:62618} 
+{/H}
