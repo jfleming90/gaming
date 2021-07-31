@@ -1,0 +1,101 @@
+Barbed Shot 1 (used for opener, uses pet dash to get into range quickly for stomp dps boost)
+
+#showtooltip Barbed Shot
+/cast Dash(Basic Ability)
+/cast Attack(Pet Command)
+/cast Claw(Basic Attack)
+/cast Smack(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Barbed Shot
+
+--------------------------
+
+Barbed Shot 2 (used when pet is already in mob range)
+
+#showtooltip Barbed Shot
+/cast Attack(Pet Command)
+/cast Claw(Basic Attack)
+/cast Smack(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Barbed Shot
+
+--------------------------
+
+Bestial Wrath
+
+#showtooltip Bestial Wrath
+/cast Attack(Pet Command)
+/cast Claw(Basic Attack)
+/cast Smack(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Bestial Wrath
+
+--------------------------
+
+Cobra Shot (notice Cobra shot is before pet commands, this is because Cobra shot can get stuck in an animation loop without actually casting if pet commands are first)
+
+#showtooltip Cobra Shot
+/cast Cobra Shot
+/cast Claw(Basic Attack)
+/cast Smack(Basic Attack)
+/cast Bite(Basic Attack)
+
+--------------------------
+
+Kill Command (the pet Assist is here in case you use pet passive macros elsewhere - like with Feign Death / Camoflauge)
+
+#showtooltip Kill Command
+/cast Assist(Pet Stance)
+/cast Attack(Pet Command)
+/cast Claw(Basic Attack)
+/cast Bite(Basic Attack)
+/cast Kill Command
+
+--------------------------
+
+Multishot (same deal as cobra shot, pet commands are last as they can confuse multishot too)
+
+#showtooltip Multi-Shot
+/cast Multi-Shot
+/cast Claw(Basic Attack)
+/cast Smack(Basic Attack)
+/cast Bite(Basic Attack)
+
+--------------------------
+
+--------------------------
+
+Feign Death (the 2x stopcasting is to ensure all queued attacks are instantly stopped including autoshot. This is probably a little more advanced due to the Pet Passive, so use this as an emergency FD only)
+
+#shotooltip Feign Death
+/cast Passive(Pet Stance)
+/stopcasting
+/stopcasting
+/cast Feign Death
+
+--------------------------
+
+Exhilaration (combo sequence macro. On first press will use Hunter Exhilaration + spirit beast heal if you have a spirit pet out, on second press will use a warlock Healthstone. This one is really useful in raids as you only need 1 button)
+
+#showtooltip 
+/castsequence reset=120 Exhilaration, Healthstone
+/cast [@player] Spirit Mend(Exotic Ability)
+
+--------------------------
+
+Misdirection (if you have a focus set, casts MD on that focus target, otherwise chooses your pet. @focus can be replaced with name of tank instead)
+
+#showtooltip Misdirection
+/cancelaura Misdirection
+/cast [@focus] Misdirection
+/cast [@pet] Misdirection
+--------------------------
+
+Aspect of the Turtle (important thing about this one is if you're in trouble and need to pop turtle, don't spam this macro as it can instantly cancel it. Press once for turtle, Press again to remove it early)
+
+#showtooltip Aspect of the Turtle
+/cancelaura Aspect of the Turtle
+/cast Aspect of the Turtle
+
+
+--------------------------
