@@ -1,3 +1,9 @@
+--------------------------
+--------------------------
+---    Combat Macros   ---
+--------------------------
+--------------------------
+
 Barbed Shot 1 (used for opener, uses pet dash to get into range quickly for stomp dps boost)
 
 #showtooltip Barbed Shot
@@ -62,7 +68,9 @@ Multishot (same deal as cobra shot, pet commands are last as they can confuse mu
 /cast Bite(Basic Attack)
 
 --------------------------
-
+--------------------------
+---   Utility Macros   ---
+--------------------------
 --------------------------
 
 Feign Death (the 2x stopcasting is to ensure all queued attacks are instantly stopped including autoshot. This is probably a little more advanced due to the Pet Passive, so use this as an emergency FD only)
