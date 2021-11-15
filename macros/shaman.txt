@@ -1,0 +1,28 @@
+Chain Heal / Chain Lightning
+#showtooltip Chain Heal
+/cast [@mouseover,help,nodead] Chain Heal; Chain Lightning
+
+
+Dispell / Purge
+#showtooltip Purify Spirit
+/cast [@mouseover,help,nodead] Purify Spirit; Purge
+
+
+Riptide / Flame Shock
+#showtooltip Riptide
+/cast [@mouseover,help,nodead] Riptide; Flame Shock
+
+
+Earthshield / Kick
+#showtooltip Earth Shield
+/cast [@mouseover,help,nodead] Earth Shield; Wind Shear
+
+
+Healing Surge / Lava Burst
+#showtooltip Healing Surge
+/cast [@mouseover,help,nodead] Healing Surge; Lava Burst
+
+
+Healing Wave / Lightning Bolt
+#showtooltip Healing Wave
+/cast [@mouseover,help,nodead] Healing Wave; Lightning Bolt
