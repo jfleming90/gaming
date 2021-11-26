@@ -26,3 +26,17 @@ Healing Surge / Lava Burst
 Healing Wave / Lightning Bolt
 #showtooltip Healing Wave
 /cast [@mouseover,help,nodead] Healing Wave; Lightning Bolt
+
+---------------------------------------------------------------
+
+Ele Shaman
+
+Storm Elemental
+
+#showtooltip
+/cast Storm Elemental
+/cast [talent:6/2] Eye of the Storm
+/cast Blood Fury(Racial)
+/use Inscrutable Quantum Device
+/cast Assist(Pet Stance)
+
