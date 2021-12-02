@@ -20,6 +20,10 @@ n33AVTTU6A(BzWGbZAdSBhrsrjX5G5djTjT5SsC6eNUxNfqrCvSvsmQJLhBLMM9GD)TpppKusuxCs6b4
 
 ^1 ^T^N1^T ^SAnchors^T ^N1^T ^Sy^N-1 ^Sx^N2 ^t^t^SConstrainWidth^b ^SName^SExpressway ^SStringName^SNumber ^SRotate^N360 ^SSize^N20 ^t^SGUID^STMW:textlayout:1WmhFO0WmLex ^SName^SCenter~`Number~`Medium~`Font ^t^N91100^S~`~| ^Stextlayout^STMW:textlayout:1WmhFO0WmLex ^^
 
+## TMW 3 ##
+
+^1^T^SScale^N1.15 ^SRole^N1 ^SPoint^T ^Sy^F-4609151497282944 ^f-45^Sx ^F-9007121108794116^f-48 ^t^SEnabledSpecs^T ^N103^b ^N104^b ^N105^b ^t^SGUID^STMW:group:1XfI8vCz0t4H ^SIcons^T ^N1^T ^SBuffOrDebuff^SHARMFUL ^SUnit^Starget ^SOnlyMine^B ^SType^Sbuff ^SShowTimerText^B ^SEnabled^B ^SName^SSunfire ^SEvents^T ^N1^T ^SScale^N0.85 ^SPassingCndt^B ^SType^SAnimations ^SCndtJustPassed^B ^SValue^N5.4 ^SAnimation^SACTVTNGLOW ^SEvent^SOnDuration ^SInfinite^B ^SOperator^S<= ^t^N2^T ^SPassingCndt^B ^SType^SAnimations ^SCndtJustPassed^B ^SValue^N6 ^SAnimation^SICONCLEAR ^SEvent^SOnDuration ^SOperator^S> ^t^Sn^N2 ^t^t^N2^T ^SBuffOrDebuff^SHARMFUL ^SUnit^Starget ^SOnlyMine^B ^SType^Sbuff ^SName^SMoonfire ^SEnabled^B ^SShowTimerText^B ^SEvents^T ^N1^T ^SScale^N0.85 ^SPassingCndt^B ^SType^SAnimations ^SCndtJustPassed^B ^SValue^N5.4 ^SAnimation^SACTVTNGLOW ^SEvent^SOnDuration ^SInfinite^B ^SOperator^S<= ^t^N2^T ^SPassingCndt^B ^SType^SAnimations ^SCndtJustPassed^B ^SValue^N6 ^SAnimation^SICONCLEAR ^SEvent^SOnDuration ^SOperator^S> ^t^Sn^N2 ^t^t^N3^T ^SOnlyMine^B ^SType^Sbuff ^SShowTimerText^B ^SEnabled^B ^SName^SStarfall ^t^t^SName^SBalance~`Dots ^SSettingsPerView^T ^Sicon^T ^SSpacingX^N3 ^t^t^t^N91100^S~`~| ^Sgroup^N4 ^^
+
 ----- Resto -----
 ## ElvUI ##
 
