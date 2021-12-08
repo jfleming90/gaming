@@ -1,0 +1,73 @@
+VER 3 0100000000000014 " Fury" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:7/2] Fury of Elune
+/cast [talent:7/3] New Moon
+/cast [talent: 7/1] Barkskin
+/use Instructor's Divine Bell
+END
+VER 3 0100000000000003 "Affinities" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/1] Typhoon
+/cast [talent:3/2] Rake
+/cast [talent:3/3] Ursol's Vortex
+END
+VER 3 0100000000000012 "Alignment" "INV_MISC_QUESTIONMARK"
+#showtooltip Celestial Alignment
+/target Granôla
+/use Inscrutable Quantum Device
+/targetlasttarget
+/cast Celestial Alignment
+/cast Ravenous Frenzy(Venthyr)
+/cast Berserking(Racial)
+END
+VER 3 0100000000000016 "BarkBear" "INV_MISC_QUESTIONMARK"
+#showtooltip Barkskin
+/castsequence reset=32 Barkskin, Blood-Spattered Scale
+END
+VER 3 0100000000000004 "Dash" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cast [talent:2/1] Tiger Dash
+/cast [talent:2/2] Renewal
+/cast [talent:2/3] Wild Charge
+END
+VER 3 010000000000000A "Dispell" "INV_MISC_QUESTIONMARK"
+#showtooltip Remove Corruption
+/cast [@mouseover,help] Remove Corruption;Soothe
+END
+VER 3 010000000000000B "Efflo" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [@cursor] Efflorescence
+END
+VER 3 0100000000000015 "Innervate2" "INV_MISC_QUESTIONMARK"
+#showtooltip Innervate
+/cast [@focus] Innervate
+END
+VER 3 0100000000000006 "Moonfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Moonfire
+/cast [@mouseover,help] Rejuvenation;[harm] Moonfire
+END
+VER 3 0100000000000002 "Res" "INV_MISC_QUESTIONMARK"
+#showtooltip Rebirth
+/cast Nature's Swiftness
+/cast [@mouseover] Rebirth
+END
+VER 3 0100000000000005 "Sunfire" "INV_MISC_QUESTIONMARK"
+#showtooltip Sunfire
+/cast [@mouseover,help] Swiftmend;[harm] Sunfire
+END
+VER 3 0100000000000001 "Travel" "538517"
+#showtooltip
+/cancelaura Flight Form
+/cancelaura Travel Form
+/cancelaura Cat Form
+/cancelaura Bear Form
+/cancelaura Moonkin Form
+/cast [stance:0] Flight Form
+/cast [stance:0] Travel Form
+END
+VER 3 0100000000000008 "Wrath" "INV_MISC_QUESTIONMARK"
+#showtooltip Wrath
+/cast [@mouseover,help] Regrowth;[harm] Wrath
+END
